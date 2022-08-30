@@ -1,8 +1,5 @@
 .DS_Store
-public
-resources
-.idea
-content/.obsidian
+content/in_progress
+content/zettelkasten
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
-linkmap
