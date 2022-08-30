@@ -8,7 +8,7 @@ weight: 0
 
 CB – [Content_Box](Content_Box.md)
 CKB – Corporate Knowledge Base
-KB – [KnowledgeBase](KnowledgeBase.md)
+KB – [Knowledge_Base](Knowledge_Base.md)
 KFM – [in_progress/Knowledge Forging Methodology](in_progress\Knowledge%20Forging%20Methodology.md)
 MoCB – [in_progress/Map of Content Box](in_progress\Map%20of%20Content%20Box.md)
 NFM – [in_progress/Knowledge Forging Methodology](in_progress\Knowledge%20Forging%20Methodology.md)

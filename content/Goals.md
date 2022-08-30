@@ -14,7 +14,7 @@ With each new employee, the overall efficiency decreases due to the need for con
 
 ## Goal
 
-**Develop a [solid concept](in_progress\Knowledge%20Forging%20Methodology.md) for creating a goal-achieving corporate [KnowledgeBase](KnowledgeBase.md) + business process automation**
+**Develop a [solid concept](in_progress\Knowledge%20Forging%20Methodology.md) for creating a goal-achieving corporate [Knowledge_Base](Knowledge_Base.md) + business process automation**
 
 Concept should incorporates the principles of [Sociocracy](https://en.wikipedia.org/wiki/Sociocracy), [Kaizen](https://en.wikipedia.org/wiki/Kaizen), [TRIZ](https://en.wikipedia.org/wiki/TRIZ) and [in_progress/Raw/Ad-hoc](in_progress\Raw\Ad-hoc.md) into the [processes](in_progress\MoCB.%20Processes.md)[^202207301546-1]. 
 I also want to test and measure the effectiveness of a combination of the [tools](in_progress\Tools.md).
