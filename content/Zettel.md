@@ -8,7 +8,7 @@ twitter: unpublished
 weight: 0
 ---
 
-[Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) Note or [Zettel](https://zettelkasten.de/introduction/) is a minimal semantic unit, info-atom and the basic level of the [KnowledgeBase](KnowledgeBase.md). The basic rule is
+[Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) Note or [Zettel](https://zettelkasten.de/introduction/) is a minimal semantic unit, info-atom and the basic level of the [Knowledge Base](KnowledgeBase.md). The basic rule is
 
 ````markdown {linenos=false}
 one note – one thought
