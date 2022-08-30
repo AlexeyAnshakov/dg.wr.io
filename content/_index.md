@@ -1,26 +1,29 @@
 ---
-title: 🪴 Quartz 3.3
+title: Home
+tags:
+  - whatis
+  - experiment
+twitter: unpublished
+weight: 0
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Hi. Alex's here. And this is the Home page of my experiment. As CEO, processing and knowledge manager, I'm constantly looking for ways to improve and automate workflows and processes. This helps my co-workers to be more effective and reduces the time I spend tracking team progress.
 
-1. Extremely fast natural-language [[notes/search|search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+To get things done, I started [The Experiment](The%20Experiment.md) that will combine my experience with the tools:
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+1. Obsidian. Knowledge base creation
+1. TheBrain. Knowledge base management and navigation
+1. Github. Knowledge storing and publishing
+1. Google Drive. Synchronization with multiple devices on which I work with the Knowledge Base
+1. make.com or n8n.io. Automation
+1. Twitter. According to Zettel's character limit rule, Twitter is well suited for sharing with the public
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+Who might be interested in the experiment: business owners, C-level executives, [knowledge](in_progress\Raw\Role.%20Knowledge%20manager.md) and other managers, researchers and those who consume a lot of information and want to improve the output through [Personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management)
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+Jumping down the rabbit hole:
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+1. [Terms and abbreviations](Terms%20and%20abbreviations.md)
+1. [Goals](Goals.md)
+1. [The Experiment](The%20Experiment.md)
+1. [in_progress/Tools](in_progress\Tools.md)
+1. [in_progress/Knowledge Forging Methodology](in_progress\Knowledge%20Forging%20Methodology.md)
