@@ -23,7 +23,7 @@ Following the [5Ws](The%205%20Ws%20and%201%20H.md) principles provides a solid K
 The [KnowledgeBase](KnowledgeBase.md) has three levels:
 
 1. [Zettels](Zettel.md)
-1. [Content Boxes](Content%20Box.md): Zettels containers
+1. [Content Boxes](Content_Box.md): Zettels containers
 1. [in_progress/Map of Content Box](in_progress\Map%20of%20Content%20Box.md): Content Boxes outliners
    Each of them has its own set of [tags](in_progress\Tags.md).
 

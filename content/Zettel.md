@@ -14,7 +14,7 @@ weight: 0
 one note – one thought
 ````
 
-Notes should be written in an academic (scientific) style: so that you can use[^202207251200-1] them in the [Content Boxes](Content%20Box.md) `as it is`.
+Notes should be written in an academic (scientific) style: so that you can use[^202207251200-1] them in the [Content Boxes](Content_Box.md) `as it is`.
 
 [^202207251200-1]: The same Zettel can be used in several Content Boxes
 
@@ -24,7 +24,7 @@ During The Experiment, I decided to keep a length note limit equal to the tweet 
 280 characters without links
 ````
 
-The character limit allows being laser-focused on one thought and keeps [Content Boxes](Content%20Box.md) straightforward and minimal. But enough to find all the information and links[^202207281744-2] you need to dig further.
+The character limit allows being laser-focused on one thought and keeps [Content Boxes](Content_Box.md) straightforward and minimal. But enough to find all the information and links[^202207281744-2] you need to dig further.
 
 [^202207281744-1]: If there is a reference, notes, clarifying or other information, then I take it out into footnotes. They do not fall within the limit and can often be larger than the note itself
 [^202207281744-2]: Get yourself familiarized with [Progressive Summarization: A Practical Technique for Designing Discoverable Notes - Forte Labs](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/) to learn how to compress information effectively

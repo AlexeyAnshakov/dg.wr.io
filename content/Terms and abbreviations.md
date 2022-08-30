@@ -6,7 +6,7 @@ twitter: unpublished
 weight: 0
 ---
 
-CB – [Content Box](Content%20Box.md)
+CB – [Content_Box](Content_Box.md)
 CKB – Corporate Knowledge Base
 KB – [KnowledgeBase](KnowledgeBase.md)
 KFM – [in_progress/Knowledge Forging Methodology](in_progress\Knowledge%20Forging%20Methodology.md)

@@ -9,7 +9,7 @@ weight: 0
 
 Content Boxes (CBs) are the 2nd level of the [KnowledgeBase](KnowledgeBase.md) and contain [Zettels](Zettel.md). I recommend keeping CBs completely blank, without even headers, inserting Zettelkasten notes only.
 
-I create [Content Boxes](Content%20Box.md) according to the [5Ws](The%205%20Ws%20and%201%20H.md):
+I create [Content Boxes](Content_Box.md) according to the [5Ws](The%205%20Ws%20and%201%20H.md):
 
 1. opening – introduction, description
 1. what
