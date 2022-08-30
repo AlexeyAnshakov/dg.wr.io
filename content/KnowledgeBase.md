@@ -20,7 +20,7 @@ The Knowledge base (KB) is based on the [Zettelkasten](Zettel.md) methodology. *
 
 Following the [5Ws](The%205%20Ws%20and%201%20H.md) principles provides a solid Knowledge Base structure and thus structures information → knowledge. Also, it will be easy to write and find the information knowing how the KB is arranged. Last but not least, this helps to build and support a link base in [TheBrain](in_progress\Tools.md).
 
-The [Knowledge Base](Knowledge%20Base.md) has three levels:
+The [KnowledgeBase](KnowledgeBase.md) has three levels:
 
 1. [Zettels](Zettel.md)
 1. [Content Boxes](Content%20Box.md): Zettels containers
