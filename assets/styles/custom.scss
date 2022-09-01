@@ -25,5 +25,25 @@
   --outlinegray: #343434 !important;
 }
 
-
-
+//My Custom CSS
+:root{--gray:#333;--font-body: "Inter"!important}
+#page-title a:hover{color:#000!important}
+h1, h2, h3, h4, h5, h6, thead{color:#284b63!important}
+.darkmode{display:none}
+.tags>li>a{border:none!important;margin-right:8px;background-color:#eee;text-transform:lowercase}
+.tags>li>a:hover{color:#000!important}
+hr{background-color:#ccc;margin:3em auto 2em;width:100%}
+a{transition:none}
+a:hover{color:#0400ff!important;background-color:none!important}
+article a.internal-link{padding:0.1em 0.4em;margin:0}
+article a.internal-link:hover{color:#000!important;background-color:#eee!important}
+article{font-size:1.1em!important;line-height:1.6em!important}
+article li{line-height:1.7em!important}
+article>.meta{margin:0.5em 0 1em}
+.footnotes{font-size:0.9em}
+.page-end>.backlinks-container>ul{list-style:decimal!important;margin:14px 16px}
+.page-end>.backlinks-container>ul>li{border:none!important;margin:0!important;padding:0.25em 0.2em!important}
+.backlinks a{display:block;font-size:1em!important;padding:0.25em 0.5em!important}
+.backlinks a:hover{background-color:#eee!important;color:#000!important;border-radius:3px}
+.page-end>.backlinks-container>ul>li{margin:-0.25em 0!important}
+.page-end>.backlinks-container>ul>li.none{margin-left:-20px!important;padding:0;border:none;list-style:none}
