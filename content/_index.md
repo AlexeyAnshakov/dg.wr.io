@@ -9,7 +9,7 @@ weight: 0
 
 Hi. Alex's here. And this is the Home page of my experiment. As CEO, processing and knowledge manager, I'm constantly looking for ways to improve and automate workflows and processes. This helps my co-workers to be more effective and reduces the time I spend tracking team progress.
 
-To get things done, I started [The Experiment](The%20Experiment.md) that will combine my experience with the tools:
+To get things done, I started [The Experiment](The%20Experiment.md) that will combine my experience with the [tools](in_progress\Tools.md):
 
 1. Obsidian. Knowledge base creation
 1. TheBrain. Knowledge base management and navigation
