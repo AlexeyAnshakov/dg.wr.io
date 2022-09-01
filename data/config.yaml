@@ -1,26 +1,24 @@
-name: Jacky Zhao
-enableToc: true
+﻿name: Alexey Anshakov
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
-enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
-enableSemanticSearch: false
-operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Alexey Anshakov's Digital Garden Experiment. Product owner, OKRs / SMART / Scrum project manager, team leader, creative director, consultant, Ethereum and Bitcoin enthusiast, crypto economy visioner. His passion is the Semantic Web, IoT, Big Data, machine learning, AI, decentralization, dApp and DAOs and cryptography. A w3.org community participant and a consultation.ngi.eu expert, a keynote speaker at The Think Global Conference https://thinkglobalconference.org/speakers/. Worked on projects for Wal-Mart, Apple, Adidas, Nike and many other reputable brands.
 page_title:
-  "🪴 Quartz 3.3"
+  "Alexey Anshakov's Digital Garden"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/alexey_anshakov
+  - link_name: LinkedIn
+    link: https://www.linkedin.com/in/alexeyanshakov
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/AlexeyAnshakov/dg.wr.io

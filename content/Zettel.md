@@ -20,7 +20,7 @@ Notes should be written in an academic (scientific) style: so that you can use[^
 
 During The Experiment, I decided to keep a length note limit equal to the tweet size[^202207281744-1]:
 
-````markdown {linenos=false}
+````
 280 characters without links
 ````
 
@@ -31,7 +31,7 @@ The character limit allows being laser-focused on one thought and keeps [Content
 
 Following the [5Ws](The_5_Ws_and_1_H.md), one of the values[^202207281744-1] is written to note tags in YAML format:
 
-````markdown {linenos=false}
+````
 [opening, who, what, when, where, why, how, closing]
 ````
 
