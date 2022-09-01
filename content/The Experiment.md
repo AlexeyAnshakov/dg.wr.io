@@ -25,7 +25,7 @@ Although automation/RPA is a must-have for companies with 200+ employees, with f
 
 Therefore, I decided to create a [in_progress/Raw/Business Framework](in_progress\Raw\Business%20Framework.md) based on the [in_progress/Knowledge Forging Methodology](in_progress\Knowledge%20Forging%20Methodology.md) that:
 
-1. would be sound for developing corporate KB
+1. would be sound for developing corporate KBs
 1. by design is suitable for creating instructions and recipes for automation
 1. the value for SMEs must be higher than the cost of implementation
 
