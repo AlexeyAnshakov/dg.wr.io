@@ -9,7 +9,7 @@ weight: 0
 
 Hi. Alex's here. And this is the Home page of my experiment. As CEO, processing and knowledge manager, I'm constantly looking for ways to improve and automate workflows and processes. This helps my co-workers to be more effective and reduces the time I spend tracking team progress.
 
-To get things done, I started [The_Experiment](The_Experiment.md) that will combine my experience with the tools:
+To get things done, I started [The Experiment](The%20Experiment.md) that will combine my experience with the tools:
 
 1. Obsidian. Knowledge base creation
 1. TheBrain. Knowledge base management and navigation
@@ -24,6 +24,6 @@ Jumping down the rabbit hole:
 
 1. [Terms and abbreviations](Terms%20and%20abbreviations.md)
 1. [Goals](Goals.md)
-1. [The_Experiment](The_Experiment.md)
+1. [The Experiment](The%20Experiment.md)
 1. [in_progress/Tools](in_progress\Tools.md)
 1. [in_progress/Knowledge Forging Methodology](in_progress\Knowledge%20Forging%20Methodology.md)
