@@ -34,7 +34,7 @@ Zettels: paragraphs
 
 I am writing the CKB based on the contents of the PKB. While maintaining a PKB, I recommend adhering to a flat structure[^202208091548-1], i.e. no folders. This allows knowledge to move freely between topics and facilitates the emergence of new ideas rather than being limited to one subject.
 
-[^202208091548-1]: Don't waste time and effort thinking about structure (stick to [5Ws](The_5_Ws_and_1_H.md))) and concentrate on making connections: what knowledge does this note add? How is it related to it?
+[^202208091548-1]: Don't waste time and effort thinking about structure (stick to [5Ws](The_5_Ws_and_1_H.md)) and concentrate on making connections: what knowledge does this note add? How is it related to it?
 
 Creating a KB takes a lot of effort. However, it also gives a significant output when a critical mass of notes[^202208102106-1] is collected. For PKB, this is the birth of insights[^202208102106-2]. For CPB, it is the preservation of knowledge accumulated within the company.
 
