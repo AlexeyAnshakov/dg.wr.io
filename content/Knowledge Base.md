@@ -3,7 +3,6 @@ title: Knowledge Base
 tags:
   - whatis
   - knowledge
-date: 2022-07-25
 twitter: unpublished
 weight: 0
 ---

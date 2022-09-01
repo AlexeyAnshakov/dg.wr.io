@@ -2,7 +2,6 @@
 title: The 5 Ws (and 1 H)
 tags:
   - whatis
-date: 2022-07-26
 twitter: unpublished
 weight: 0
 ---

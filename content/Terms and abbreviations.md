@@ -1,7 +1,6 @@
 ---
 title: Terms and abbreviations
 tags: []
-date: 2022-08-09
 twitter: unpublished
 weight: 0
 ---

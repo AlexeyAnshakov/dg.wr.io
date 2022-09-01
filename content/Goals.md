@@ -4,7 +4,6 @@ tags:
   - knowledge
   - management
   - sociocracy
-date: 2022-07-25
 twitter: unpublished
 weight: 0
 ---

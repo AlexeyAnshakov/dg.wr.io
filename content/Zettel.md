@@ -3,7 +3,6 @@ title: Zettelkasten notes
 tags:
   - whatis
   - evergreen
-date: 2022-07-26
 twitter: unpublished
 weight: 0
 ---
