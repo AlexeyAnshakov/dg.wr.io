@@ -29,7 +29,7 @@ The character limit allows being laser-focused on one thought and keeps [Content
 [^202207281744-1]: If there is a reference, notes, clarifying or other information, then I take it out into footnotes. They do not fall within the limit and can often be larger than the note itself
 [^202207281744-2]: Get yourself familiarized with [Progressive Summarization: A Practical Technique for Designing Discoverable Notes - Forte Labs](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/) to learn how to compress information effectively
 
-Following the [5Ws](The%205%20Ws%20and%201%20H.md), one of the values[^202207281744-1] is written to note tags in YAML format:
+Following the [5Ws](The_5_Ws_and_1_H.md), one of the values[^202207281744-1] is written to note tags in YAML format:
 
 ````markdown {linenos=false}
 [opening, who, what, when, where, why, how, closing]
