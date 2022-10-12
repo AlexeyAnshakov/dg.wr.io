@@ -1,7 +1,6 @@
 ---
 title: Terms and abbreviations
 tags: []
-twitter: unpublished
 weight: 0
 ---
 
@@ -11,11 +10,11 @@ CKB – Corporate Knowledge Base
 
 KB – [Knowledge Base](Knowledge%20Base.md)
 
-KFM – [in_progress/Knowledge Forging Methodology](in_progress\Knowledge%20Forging%20Methodology.md)
+KFM – [Knowledge Forging Methodology](Knowledge%20Forging%20Methodology.md)
 
 MoCB – [in_progress/Map of Content Box](in_progress\Map%20of%20Content%20Box.md)
 
-NFM – [in_progress/Knowledge Forging Methodology](in_progress\Knowledge%20Forging%20Methodology.md)
+NFM – [Knowledge Forging Methodology](Knowledge%20Forging%20Methodology.md)
 
 PKB – Personal Knowledge Base
 

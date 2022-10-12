@@ -3,11 +3,10 @@ title: Knowledge Base
 tags:
   - whatis
   - knowledge
-twitter: unpublished
 weight: 0
 ---
 
-Personal Knowledge Base (PKB) is a collection of your and others' thoughts for further reflection and getting insights and ideas. In other words, bias toward creativity (creator mode)[^202208081715-1].
+A Personal Knowledge Base (PKB) is a collection of your and others' thoughts for further reflection and getting insights and ideas. I.e., bias toward creativity (creator mode)[^202208081715-1].
 The goals of corporate KB (CKB) are to preserve and transfer already formed, existing knowledge (archivist mode)[^202208081715-2].
 
 [^202208081715-1]: A good starting point here is [How to Take Smart Notes by Sönke Ahrens: Book Summary](https://aliabdaal.com/book-notes/how-to-take-smart-notes/)
@@ -15,7 +14,7 @@ The goals of corporate KB (CKB) are to preserve and transfer already formed, exi
 
  
 
-The Knowledge base (KB) is based on the [Zettelkasten](Zettel.md) methodology. **KB is not an encyclopedia**. Its purpose is to provide the minimum necessary information to set the right direction for further research. The character limit rule forces you to write only the most important.
+The Knowledge base (KB) is based on the [Zettelkasten](Zettel.md) methodology. **KB is not an encyclopedia or wiki**. Its purpose is to provide the minimum necessary information to set the right direction for further research. The character limit rule forces you to write only the most important.
 
 Following the [5Ws](The%205%20Ws%20and%201%20H.md) principles provides a solid Knowledge Base structure and thus structures information → knowledge. Also, it will be easy to write and find the information knowing how the KB is arranged. Last but not least, this helps to build and support a link base in [TheBrain](in_progress\Tools.md).
 

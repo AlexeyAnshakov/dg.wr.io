@@ -4,7 +4,6 @@ tags:
   - whatis
   - evergreen
   - knowledge
-twitter: unpublished
 weight: 0
 ---
 
@@ -13,7 +12,7 @@ Practising [Personal knowledge management](https://en.wikipedia.org/wiki/Persona
 [^202207292146-1]: Check [Andy Matuschak’s notes](https://notes.andymatuschak.org/) for details
 [^202207292146-2]: Map of Content (aka LYT). Learn more on [Linking Your Thinking](https://www.linkingyourthinking.com/)
 
-Personal Knowledge Base (PKB) is a collection of your and others' thoughts for further reflection and getting insights and ideas. In other words, bias toward creativity (creator mode)[^202208081715-1].
+A Personal Knowledge Base (PKB) is a collection of your and others' thoughts for further reflection and getting insights and ideas. I.e., bias toward creativity (creator mode)[^202208081715-1].
 The goals of corporate KB (CKB) are to preserve and transfer already formed, existing knowledge (archivist mode)[^202208081715-2].
 
 [^202208081715-1]: A good starting point here is [How to Take Smart Notes by Sönke Ahrens: Book Summary](https://aliabdaal.com/book-notes/how-to-take-smart-notes/)
@@ -23,7 +22,7 @@ Although automation/RPA is a must-have for companies with 200+ employees, with f
 
 [^202208081700-1]: A good analogy is to compare a company to a tree. If you initially set up processes incorrectly, your company will grow chaotically. Such a company cannot grow big. Even with favorable external factors, the company will sooner or later break under its weight of internal inefficiency
 
-Therefore, I decided to create a [in_progress/Raw/Business Framework](in_progress\Raw\Business%20Framework.md) based on the [in_progress/Knowledge Forging Methodology](in_progress\Knowledge%20Forging%20Methodology.md) that:
+Therefore, I decided to create a [in_progress/Raw/Business Framework](in_progress\Raw\Business%20Framework.md) based on the [Knowledge Forging Methodology](Knowledge%20Forging%20Methodology.md) that:
 
 1. would be sound for developing corporate KBs
 1. by design is suitable for creating instructions and recipes for automation
