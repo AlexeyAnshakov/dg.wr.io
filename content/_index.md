@@ -31,5 +31,4 @@ Jumping down the rabbit hole:
 1. [Terms and abbreviations](Terms%20and%20abbreviations.md)
 1. [Goal](Goal.md)
 1. [The Experiment](The%20Experiment.md)
-1. *in_progress/Tools*
 1. [Knowledge Forging Methodology](Knowledge%20Forging%20Methodology.md)
