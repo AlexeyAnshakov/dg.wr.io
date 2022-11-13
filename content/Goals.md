@@ -26,7 +26,8 @@ I also want to test and measure the effectiveness of a combination of the *tools
 1. involved in maintaining KB
 1. KB output is measurable and higher than the maintenance cost
 1. processes and workflows are built and [automated](in_progress\Raw\Automation.md) as much as possible: **20%** is a good starting KPI
-   It can be enhanced with [Robotic process automation](https://en.wikipedia.org/wiki/Robotic_process_automation)
+
+It can be enhanced with [Robotic process automation](https://en.wikipedia.org/wiki/Robotic_process_automation)
 
 ## How
 
