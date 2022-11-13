@@ -15,7 +15,7 @@ Practising [Personal knowledge management](https://en.wikipedia.org/wiki/Persona
 A Personal Knowledge Base (PKB) is a collection of your and others' thoughts for further reflection and getting insights and ideas. I.e., bias toward creativity (creator mode)[^202208081715-1].
 The goals of corporate KB (CKB) are to preserve and transfer already formed, existing knowledge (archivist mode)[^202208081715-2].
 
-[^202208081715-1]: A good starting point here is [How to Take Smart Notes by Sönke Ahrens: Book Summary](https://aliabdaal.com/book-notes/how-to-take-smart-notes/)
+[^202208081715-1]: This does not negate the use of the PKB for memorizing everything you have read, viewed and heard. A good starting point here is [How to Take Smart Notes by Sönke Ahrens: Book Summary](https://aliabdaal.com/book-notes/how-to-take-smart-notes/)
 [^202208081715-2]: I recommend getting acquainted with [The PARA Method: A Universal System for Organizing Digital Information - Forte Labs](https://fortelabs.co/blog/para/) to those of my readers who are looking for an approach to organizing their lives and projects (archivist mode). However, PARA is not well suited for creators (creator mode)
 
 Although automation/RPA is a must-have for companies with 200+ employees, with four companies under my belt, I realized that owners should [set up](in_progress\Raw\Business%20Framework.md) processes asap[^202208081700-1]. And [automate](in_progress\Raw\Automation.md) at least trivial and everyday tasks.
@@ -27,6 +27,18 @@ Therefore, I decided to create a [in_progress/Raw/Business Framework](in_progres
 1. would be sound for developing corporate KBs
 1. by design is suitable for creating instructions and recipes for automation
 1. the value for SMEs must be higher than the cost of implementation
+
+During The Experiment, I decided to keep a length note limit equal to the tweet size[^202207281744-1]:
+
+````markdown {linenos=false}
+280 characters without links
+````
+
+The character limit allows being laser-focused on one thought and keeps [Content Boxes](Content%20Box.md) straightforward and minimal. But enough to find all the information and links[^202207281744-2] you need to dig further[^202207281744-3].
+
+[^202207281744-1]: If there is a reference, notes, clarifying or other information, then I take it out into footnotes. They do not fall within the limit and can often be larger than the note itself
+[^202207281744-2]: Get yourself familiarized with [Progressive Summarization: A Practical Technique for Designing Discoverable Notes - Forte Labs](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/) to learn how to compress information effectively
+[^202207281744-3]: In other words, a [Zettel](Zettel.md) must contain the minimum necessary but sufficient information. Context and footnotes help to interpret it correctly
 
 A best practice is to train and instil the habit of PKM in as many employees as possible. This allows the philosophy of knowledge to permeate the entire structure of the company, to become part of its DNA. And will simplify the practice of maintaining a corporate KB.
 

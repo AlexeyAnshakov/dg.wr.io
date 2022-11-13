@@ -27,7 +27,7 @@ The character limit allows being laser-focused on one thought and keeps [Content
 
 [^202207281744-1]: If there is a reference, notes, clarifying or other information, then I take it out into footnotes. They do not fall within the limit and can often be larger than the note itself
 [^202207281744-2]: Get yourself familiarized with [Progressive Summarization: A Practical Technique for Designing Discoverable Notes - Forte Labs](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/) to learn how to compress information effectively
-[^202207281744-3]: In other words, a zettel card must contain the minimum necessary but sufficient information. Context and footnotes help to interpret it correctly
+[^202207281744-3]: In other words, a [Zettel](Zettel.md) must contain the minimum necessary but sufficient information. Context and footnotes help to interpret it correctly
 
 Following the [5Ws](The%205%20Ws%20and%201%20H.md), one of the values[^202207281744-1] is written to note tags in YAML format:
 
@@ -43,5 +43,5 @@ Unlike the Ever Green approach, Zettels, in the [Knowledge Forging Methodology](
  > A Personal Knowledge Base (PKB) is a collection of your and others' thoughts for further reflection and getting insights and ideas. I.e., bias toward creativity (creator mode)[^202208081715-1].
  > The goals of corporate KB (CKB) are to preserve and transfer already formed, existing knowledge (archivist mode)[^202208081715-2].
  > 
- > [^202208081715-1]: A good starting point here is [How to Take Smart Notes by Sönke Ahrens: Book Summary](https://aliabdaal.com/book-notes/how-to-take-smart-notes/)
+ > [^202208081715-1]: This does not negate the use of the PKB for memorizing everything you have read, viewed and heard. A good starting point here is [How to Take Smart Notes by Sönke Ahrens: Book Summary](https://aliabdaal.com/book-notes/how-to-take-smart-notes/)
  > [^202208081715-2]: I recommend getting acquainted with [The PARA Method: A Universal System for Organizing Digital Information - Forte Labs](https://fortelabs.co/blog/para/) to those of my readers who are looking for an approach to organizing their lives and projects (archivist mode). However, PARA is not well suited for creators (creator mode)
