@@ -16,7 +16,7 @@ With each new employee, the overall efficiency decreases due to the need for con
 **Develop a [solid concept](Knowledge%20Forging%20Methodology.md) for creating a goal-achieving corporate [Knowledge Base](Knowledge%20Base.md) + business process automation**
 
 The concept should incorporate the principles of [Sociocracy](in_progress\Raw\Sociocracy.%20Dynamic%20gavernance.md), [Kaizen](https://en.wikipedia.org/wiki/Kaizen), [TRIZ](https://en.wikipedia.org/wiki/TRIZ) and [in_progress/Raw/Ad-hoc](in_progress\Raw\Ad-hoc.md) into the [processes](in_progress\MoCB.%20Processes.md)[^202207301546-1]. 
-I also want to test and measure the effectiveness of a combination of the *tools* and [in_progress/Raw/No-code](in_progress\Raw\No-code.md) development ideas.
+I also want to test and measure the effectiveness of a combination of the [tools](https://dg.wr.io/) and [in_progress/Raw/No-code](in_progress\Raw\No-code.md) development ideas.
 
 [^202207301546-1]: The experiment was also influenced by [Reinventing Organizations, Frederic Laloux](https://www.reinventingorganizations.com/), [Holacracy, Bryan Robertson](https://holacracy.org), works of [Ichak Adizes](https://en.wikipedia.org/wiki/Ichak_Adizes) and some others
 
@@ -38,7 +38,7 @@ It can be enhanced with [Robotic process automation](https://en.wikipedia.org/wi
 
 [^202207302249-1]: Sensitive processes and data will not be publicly available. However, this will not significantly impact the benefit to readers
 
-I’ve been using *these tools* for a while and suppose their combination can provide a synergy effect. Based on the results and experience I gained, I want to implement knowledge management into WRIO work processes.
+I’ve been using [these tools](https://dg.wr.io/) for a while and suppose their combination can provide a synergy effect. Based on the results and experience I gained, I want to implement knowledge management into WRIO work processes.
 
 Automation should reduce the number of errors and speed up processes rather than cut down costs.
 

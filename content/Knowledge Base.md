@@ -16,7 +16,7 @@ The goals of corporate KB (CKB) are to preserve and transfer already formed, exi
 
 The Knowledge base (KB) is based on the [Zettelkasten](Zettel.md) methodology. **KB is not an encyclopedia or wiki**. Its purpose is to provide the minimum necessary information to set the right direction for further research. The character limit rule forces you to write only the most important.
 
-Following the [5Ws](The%205%20Ws%20and%201%20H.md) principles provides a solid Knowledge Base structure and thus structures information → knowledge. Also, it will be easy to write and find the information knowing how the KB is arranged. Last but not least, this helps to build and support a link base in *TheBrain*.
+Following the [5Ws](The%205%20Ws%20and%201%20H.md) principles provides a solid Knowledge Base structure and thus structures information → knowledge. Also, it will be easy to write and find the information knowing how the KB is arranged. Last but not least, this helps to build and support a link base in [TheBrain](https://www.thebrain.com/).
 
 The [Knowledge Base](Knowledge%20Base.md) has three levels:
 

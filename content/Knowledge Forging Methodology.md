@@ -19,11 +19,11 @@ The methodology is used in the [in_progress/Raw/Dashboard](in_progress\Raw\Dashb
 KFM is based on a sequential processing workflow and modular information structuring.
 Modularity is the process of breaking up incoming texts into minimal [logical units](Zettel.md), from which [texts](Content%20Box.md) are then assembled.
 
-1. **Raw** is unstructured, written down thoughts, ideas and sketches in PKBs by team members[^202210072158-1].
+1. **Raw** is unstructured, written down thoughts, ideas and sketches in theirs PKBs by team members[^202210072158-1].
    
    [^202210072158-1]: Notes can be stored in Google Docs, Evernote, Obsidian, etc. This stage is a “purgatory” of thoughts and sketches of ideas that often do not move on to the next stage of the workflow
 
-1. **Forging**: the process of processing Raw[^202210072031-1]. Notes are polished, compressed, and taken out in [Zettels](Zettel.md).
+1. **Forging**: Raw[^202210072031-1] processing. Notes are polished, compressed, and taken out in [Zettels](Zettel.md).
    
    [^202210072031-1]: I highly recommend to stick to [Progressive Summarization: A Practical Technique for Designing Discoverable Notes](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/)
 
