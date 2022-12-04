@@ -29,7 +29,7 @@ Modularity is the process of breaking up incoming texts into minimal [logical un
 
 1. **Assembling**: merging/grouping Zettels by [5Ws](The%205%20Ws%20and%201%20H.md) into [Content Boxes](Content%20Box.md) by topic (catalogue).
 
-1. **Tool**: merging Content Boxes into [MoCB](in_progress\Map%20of%20Content%20Box.md). The result is a finished instruction or scenario. More details at [in_progress/MoCB. Processes](in_progress\MoCB.%20Processes.md).
+1. **Tool**: merging Content Boxes into [MoCB](Map%20of%20Content%20Box.md). The result is a finished instruction or scenario. More details at [in_progress/MoCB. Processes](in_progress\MoCB.%20Processes.md).
 
 1. **[in_progress/Raw/Automation](in_progress\Raw\Automation.md)**: development of an algorithm/script based on an instruction or scenario.
 

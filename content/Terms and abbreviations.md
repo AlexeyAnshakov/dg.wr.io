@@ -12,7 +12,7 @@ KB – [Knowledge Base](Knowledge%20Base.md)
 
 KFM – [Knowledge Forging Methodology](Knowledge%20Forging%20Methodology.md)
 
-MoCB – [in_progress/Map of Content Box](in_progress\Map%20of%20Content%20Box.md)
+MoCB – [Map of Content Box](Map%20of%20Content%20Box.md)
 
 NFM – [Knowledge Forging Methodology](Knowledge%20Forging%20Methodology.md)
 
