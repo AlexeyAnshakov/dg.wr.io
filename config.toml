@@ -1,6 +1,6 @@
 baseURL = "https://dg.wr.io/"
 languageCode = "en-us"
-googleAnalytics = "G-NFN9NPD9FC"
+googleAnalytics = "324251809"
 relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
