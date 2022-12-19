@@ -2,6 +2,15 @@
 {{ $config := cond (eq $.Site.Language.Lang "en") "config" (printf "config.%s" $.Site.Language.Lang) }}
 {{ $data := index $.Site.Data $config }}
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-SKV49BD0W6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-SKV49BD0W6');
+  </script>
   <!-- Meta tags -->
   <meta charset="UTF-8" />
   <meta
@@ -186,13 +195,4 @@
   </script>
   {{end}}
 </head>
-{{ template "_internal/google_analytics.html" . }}
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SKV49BD0W6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-SKV49BD0W6');
-</script>
+<!-- {{ template "_internal/google_analytics.html" . }}-->
