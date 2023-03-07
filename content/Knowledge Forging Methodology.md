@@ -19,9 +19,10 @@ The methodology is used in the [in_progress/Raw/Dashboard](in_progress\Raw\Dashb
 KFM is based on a sequential processing workflow and modular information structuring.
 Modularity is the process of breaking up incoming texts into minimal [logical units](Zettel.md), from which [texts](Content%20Box.md) are then assembled.
 
-1. **Raw** is unstructured, written down thoughts, ideas and sketches in theirs PKBs by team members[^202210072158-1].
+1. **Raw**[^202210072158-1] is unstructured, written down thoughts, ideas and sketches in theirs PKBs by team members[^202210072158-2].
    
-   [^202210072158-1]: Notes can be stored in Google Docs, Evernote, Obsidian, etc. This stage is a “purgatory” of thoughts and sketches of ideas that often do not move on to the next stage of the workflow
+   [^202210072158-1]: Inspired by “How Successful People Think: Change Your Thinking, Change Your Life”, John C. Maxwell
+   [^202210072158-2]: Notes can be stored in Google Docs, Evernote, Obsidian, etc. This stage is a “purgatory” of thoughts and sketches of ideas that often do not move on to the next stage of the workflow
 
 1. **Forging**: Raw[^202210072031-1] processing. Notes are polished, compressed, and taken out in [Zettels](Zettel.md).
    
@@ -29,7 +30,7 @@ Modularity is the process of breaking up incoming texts into minimal [logical un
 
 1. **Assembling**: merging/grouping Zettels by [5Ws](The%205%20Ws%20and%201%20H.md) into [Content Boxes](Content%20Box.md) by topic (catalogue).
 
-1. **Tool**: merging Content Boxes into [MoCB](Map%20of%20Content%20Box.md). The result is a finished instruction or scenario. More details at [in_progress/MoCB. Processes](in_progress\MoCB.%20Processes.md).
+1. **Tool**: merging Content Boxes into [MoCB](Map%20of%20Content%20Box.md). The result is a finished instruction or scenario. More details at [in_progress/Process](in_progress\Process.md).
 
 1. **[in_progress/Raw/Automation](in_progress\Raw\Automation.md)**: development of an algorithm/script based on an instruction or scenario.
 

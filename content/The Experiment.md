@@ -42,4 +42,4 @@ The character limit allows being laser-focused on one thought and keeps [Content
 
 A best practice is to train and instil the habit of PKM in as many employees as possible. This allows the philosophy of knowledge to permeate the entire structure of the company, to become part of its DNA. And will simplify the practice of maintaining a corporate KB.
 
-Adhering to PKM practices solves the problem that KBs remain unclaimed in many companies. In addition, you have to include the use of KB in daily work. And for this, KB must be hardcoded into [in_progress/MoCB. Processes](in_progress\MoCB.%20Processes.md).
+Adhering to PKM practices solves the problem that KBs remain unclaimed in many companies. In addition, you have to include the use of KB in daily work. And for this, KB must be hardcoded into [in_progress/Process](in_progress\Process.md).

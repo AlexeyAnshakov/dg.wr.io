@@ -1,5 +1,5 @@
 ---
-title: Content Boxes
+title: Content Box
 tags:
   - whatis
 weight: 0

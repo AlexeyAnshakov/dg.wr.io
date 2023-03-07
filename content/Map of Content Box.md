@@ -15,4 +15,4 @@ MoCBs are of two types:
 * a thematic list of links to CBs, i.e. act as a virtual folder
 * a sequential list of links to CBs (step-by-step script/instruction) for the execution of a process for a person (role) or machine. See [Knowledge Forging Methodology](Knowledge%20Forging%20Methodology.md)
 
-Check the [in_progress/Raw/List of processes](in_progress\Raw\List%20of%20processes.md) for examples.
+Check the [in_progress/List of processes](in_progress\List%20of%20processes.md) for examples.
